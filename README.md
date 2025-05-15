@@ -19,7 +19,7 @@ A simple Python script that analyzes a Twitter user's timeline to find their top
 
 1. Clone this repository:
    ```
-   git clone https://github.com/sh1nnyboy/twitter-top-interactions.git
+   git clone https://github.com/sh1nnyboy/scrapping-top10-interaction-in-twitter
    cd twitter-top-interactions
    ```
 
